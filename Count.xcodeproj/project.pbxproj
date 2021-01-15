@@ -15,6 +15,7 @@
 		993F899225B206C700BD9686 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 993F899025B206C700BD9686 /* LaunchScreen.storyboard */; };
 		993F899D25B206C700BD9686 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993F899C25B206C700BD9686 /* CountTests.swift */; };
 		993F89A825B206C700BD9686 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993F89A725B206C700BD9686 /* CountUITests.swift */; };
+		993F89B925B2074900BD9686 /* BackGroundIMG.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 993F89B825B2074900BD9686 /* BackGroundIMG.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		993F89A325B206C700BD9686 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		993F89A725B206C700BD9686 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		993F89A925B206C700BD9686 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		993F89B825B2074900BD9686 /* BackGroundIMG.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BackGroundIMG.JPG; path = "../../../../../../楽しいこと/エモい写真フォルダ/BackGroundIMG.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		993F898425B206C400BD9686 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				993F89B825B2074900BD9686 /* BackGroundIMG.JPG */,
 				993F898525B206C400BD9686 /* AppDelegate.swift */,
 				993F898725B206C400BD9686 /* SceneDelegate.swift */,
 				993F898925B206C400BD9686 /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				993F899225B206C700BD9686 /* LaunchScreen.storyboard in Resources */,
 				993F898F25B206C700BD9686 /* Assets.xcassets in Resources */,
 				993F898D25B206C400BD9686 /* Main.storyboard in Resources */,
+				993F89B925B2074900BD9686 /* BackGroundIMG.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
